@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+#zjpas_mfczipjp_tabs h2 {
+	
+}
+#zjpas_mfczipjp_tabs img {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+#zjpas_mfczipjp_tabs h3 {
+	margin-top: 4em;
+}
+#zjpas_mfczipjp_tabs h4 {
+	font-size: 1.2em;
+	margin-top: 4em;
+}
+#zjpas_mfczipjp_tabs {
+	line-height: 1.5em;
+}
+#zjpas_mfczipjp_tabs .textspace {
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+#zjpas_mfczipjp_tabs .tbold {
+	font-weight: bold;
+}
+#zjpas_mfczipjp_tabs .uline {
+	border-bottom: 0.7px solid #111;
+}
+#zjpas_mfczipjp_tabs #zjpas_mfczipjp_tabwrapper {
+	border-bottom: 1px solid #c3c4c7;
+}
+#zjpas_mfczipjp_tabs #zjpas_mfczipjp_tabwrapper li a:focus {
+	box-shadow: none;
+}
+#zjpas_mfczipjp_tabs #zjpas_mfczipjp_tabwrapper li {
+	display: inline-block;
+	position: relative;
+    margin: 0 0 -1px 0.5em;
+}
+#zjpas_mfczipjp_tabs #zjpas_mfczipjp_tabwrapper li a {
+	display: inline-block;
+	position: relative;
+    background: #dcdcde;
+	border: 1px solid #c3c4c7;
+    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid #f0f0f1;
+	border-radius: 0.2em 0.2em 0 0;
+	color: #50575e;
+	font-weight: bold;
+	font-size: medium;
+	text-decoration: none;
+	padding: 0.7em 1em 0.7em;
+}
+#zjpas_mfczipjp_tabs #zjpas_mfczipjp_tabwrapper li.ui-tabs-active {
+}
+#zjpas_mfczipjp_tabs #zjpas_mfczipjp_tabwrapper li.ui-tabs-active a {
+    background: #f0f0f1;
+	color: #000;
+}
+#zjpas_mfczipjp_tabs #zjpas_mfczipjp_tabwrapper li a:hover {
+	text-decoration: underline;
+}
+#zjpas_mfczipjp_tabs .mfczipjp_grid {
+	border-collapse: collapse;
+}
+#zjpas_mfczipjp_tabs .mfczipjp_grid tr {
+	
+}
+#zjpas_mfczipjp_tabs .mfczipjp_grid th {
+	background: #dcdcde;
+	font-weight: bold;
+}
+#zjpas_mfczipjp_tabs .mfczipjp_grid th,
+#zjpas_mfczipjp_tabs .mfczipjp_grid td {
+	border: 1px solid #777;
+	border-collapse: collapse;
+	padding: 0.5em;
+}
+#zjpas_mfczipjp_tabs .mfczipjp_grid td:nth-child(4),
+#zjpas_mfczipjp_tabs .mfczipjp_grid td:nth-child(5) {
+	text-align: center;
+}
+.sourcecode {
+	background-color: #fff;
+    color: #111;
+    width: calc(100% - 2em);
+    padding: 1em;
+    font-size: 135%;
+	line-height: 1.4em;
+    white-space: pre;
+    overflow: scroll;
+}
+.sourcecode span {
+	margin: 0 !important;
+}
+.sourcecode .red {
+	color: #F99;
+}
+.sourcecode .yellow {
+	color: #CC5;
+}.sourcecode .green {
+	color: #5C5;
+}
+.sourcecode .blue {
+	color: #55C;
+}
+.sourcecode .lightblue {
+	color: #9FF;
+	color: #5CC;
+}
+.sourcecode .label {
+	display: inline-block;
+	position: relative;
+	width: 8em;
+}

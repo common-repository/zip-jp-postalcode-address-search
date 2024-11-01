@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
+
+#: cbox_text.php
+msgid "Label"
+msgstr "ラベル"
+
+#: cbox_text.php
+msgid "Id attribute"
+msgstr "ID 属性"
+
+#: cbox_text.php
+msgid "Class attribute"
+msgstr "クラス属性"
+
+#: cbox_text.php
+msgid "Insert Tag"
+msgstr "タグを挿入"
+
+#: cbox_text.php
+msgid "Field type"
+msgstr "項目タイプ"
+
+#: cbox_text.php
+msgid "Required field"
+msgstr "必須項目"
+
+#: cbox_text.php
+msgid "Name"
+msgstr "名前"
+
+#: cbox_text.php
+msgid "Default value"
+msgstr "デフォルト値"
+
+#: cbox_text.php
+msgid "se this text as the placeholder of the field"
+msgstr "このテキストを項目のプレースホルダーとして使用する"
+
+#: cbox_text.php
+msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr "この項目に入力された値をメールの項目で使用するには、対応するメールタグ (%s) をメールタブ上の項目に挿入する必要があります。"
+
+#: cbox_text.php
+msgid "postalcode in/out"
+msgstr "郵便番号"
+
+#: cbox_text.php
+msgid "prefecture in/out"
+msgstr "都道府県"
+
+#: cbox_text.php
+msgid "town name in/out"
+msgstr "町名"
+
+#: cbox_text.php
+msgid "Company name in/out"
+msgstr "事業所名"
+
+#: cbox_text.php
+msgid "prefecture Kana in/out"
+msgstr "都道府県(カナ)"
+
+#: cbox_text.php
+msgid "town name Kana in/out"
+msgstr "町名(カナ)"
+
+#: mfc_zipjp.php
+msgid "Postal Code Address Search"
+msgstr "郵便番号住所検索"
+
+#: mfc_zipjp.php
+msgid "Find from postcode"
+msgstr "郵便番号から住所検索ボタン"
+
+#: mfc_zipjp.php
+msgid "Find from address"
+msgstr "住所(地名)から郵便番号検索ボタン"
+
+#: mfc_zipjp.php
+msgid "ZIPJP text"
+msgstr "ZIPJP連携テキスト"
+
+#: mfc_zipjp.php
+msgid "Generate a address search button tag."
+msgstr "郵便番号から住所検索ボタンのタグを生成します"
+
+#: mfc_zipjp.php
+msgid "Generate a postalcode search button tag."
+msgstr "住所から郵便番号検索ボタンのタグを生成します"
+
+#: mfc_zipjp.php
+msgid "Generates a form tag for a single-line postalcode search plain text input."
+msgstr "単一行の郵便番号検索プレーンテキスト入力フィールドのフォームタグを生成します。"
+
+#: mfc_zipjp.php
+msgid "The setting value has been saved."
+msgstr "ZIP-JP Postalcode Address Search 設定値を保存しました。"
+
+#: mfc_zipjp.php
+msgid "Use this text as the placeholder of the field"
+msgstr "このテキストを項目のプレースホルダーとして使用する"
+
+#: mfc_zipjp.php
+msgid "https://milkyfieldcompany.com/"
+msgstr "https://milkyfieldcompany.com/"
+
+#: mfc_zipjp.php
+msgid "milkyfield"
+msgstr "milkyfield"
+
+#: mfc_zipjp.php
+msgid "Zip code address search plugin. It supports input by displaying zip code to address, address to zip code, and place name to address and zip code candidates. * To use it, get the API key from the ZIP-JP API service site."
+msgstr "郵便番号住所検索プラグイン。郵便番号から住所、住所から郵便番号、地名から住所や郵便番号の候補を表示して入力を支援します。※使用するにはプラグインのサイトからAPIキーを取得してください。"
+
+#: mfc_zipjp.php
+msgid "https://zipcode.milkyfieldcompany.com/"
+msgstr "https://zipcode.milkyfieldcompany.com/"
+
+#: mfc_zipjp.php
+msgid "ZIP-JP Postalcode Address Search"
+msgstr "ZIP-JP Postalcode Address Search"

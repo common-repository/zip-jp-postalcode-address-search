@@ -1,0 +1,120 @@
+#: cbox_text.php
+msgid "Label"
+msgstr ""
+
+#: cbox_text.php
+msgid "Id attribute"
+msgstr ""
+
+#: cbox_text.php
+msgid "Class attribute"
+msgstr ""
+
+#: cbox_text.php
+msgid "Insert Tag"
+msgstr ""
+
+#: cbox_text.php
+msgid "Field type"
+msgstr ""
+
+#: cbox_text.php
+msgid "Required field"
+msgstr ""
+
+#: cbox_text.php
+msgid "Name"
+msgstr ""
+
+#: cbox_text.php
+msgid "Default value"
+msgstr ""
+
+#: cbox_text.php
+msgid "se this text as the placeholder of the field"
+msgstr ""
+
+#: cbox_text.php
+msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr ""
+
+#: cbox_text.php
+msgid "postalcode in/out"
+msgstr ""
+
+#: cbox_text.php
+msgid "prefecture in/out"
+msgstr ""
+
+#: cbox_text.php
+msgid "town name in/out"
+msgstr ""
+
+#: cbox_text.php
+msgid "Company name in/out"
+msgstr ""
+
+#: cbox_text.php
+msgid "prefecture Kana in/out"
+msgstr ""
+
+#: cbox_text.php
+msgid "town name Kana in/out"
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "Postal Code Address Search"
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "Find from postcode"
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "Find from address"
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "ZIPJP text"
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "Generate a address search button tag."
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "Generate a postalcode search button tag."
+msgstr ""
+
+#: mfc_zipjp.php
+msgid ""
+"Generates a form tag for a single-line postalcode search plain text input."
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "The setting value has been saved."
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "Use this text as the placeholder of the field"
+msgstr ""
+
+#: mfc_zipjp.php
+msgid "https://milkyfieldcompany.com/"
+msgstr "https://milkyfieldcompany.com/"
+
+#: mfc_zipjp.php
+msgid "milkyfield"
+msgstr "milkyfield"
+
+#: mfc_zipjp.php
+msgid "Zip code address search plugin. It supports input by displaying zip code to address, address to zip code, and place name to address and zip code candidates. * To use it, get the API key from the ZIP-JP API service site."
+msgstr "郵便番号住所検索プラグイン。郵便番号から住所、住所から郵便番号、地名から住所や郵便番号の候補を表示して入力を支援します。※使用するにはプラグインのサイトからAPIキーを取得してください。"
+
+#: mfc_zipjp.php
+msgid "https://zipcode.milkyfieldcompany.com/"
+msgstr "https://zipcode.milkyfieldcompany.com/"
+
+#: mfc_zipjp.php
+msgid "ZIP-JP Postalcode Address Search"
+msgstr "ZIP-JP Postalcode Address Search"
